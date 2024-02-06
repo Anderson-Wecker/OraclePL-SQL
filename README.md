@@ -1,2 +1,2 @@
 # OraclePL-SQL
-Repositório destinado ao estudo de PL/SQL, curso Udemy.
+Repositório destinado ao estudo de PL/SQL e SQL, curso Udemy.
